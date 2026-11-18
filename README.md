@@ -1,5 +1,5 @@
 # git-demo
-This is a demo account for github.
+This is a demo account for github..
 
 # danish
 Student.
